@@ -1,0 +1,253 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-29T00:00:00Z",
+  "rates": [
+    {
+      "schemeId": "ppf",
+      "rate": "7.1",
+      "compounding": "YEARLY",
+      "effectiveFrom": "2020-04-01",
+      "effectiveTo": null,
+      "sourceId": "india_post",
+      "sourceUrl": "https://www.indiapost.gov.in/Financial/Pages/Content/Post-Office-Saving-Schemes.aspx",
+      "lastVerified": "2026-10-26",
+      "status": "VERIFIED",
+      "ruleId": "ppf.rate",
+      "version": 1
+    },
+    {
+      "schemeId": "ssa",
+      "rate": "8.2",
+      "compounding": "YEARLY",
+      "effectiveFrom": "2024-01-01",
+      "effectiveTo": null,
+      "sourceId": "india_post",
+      "sourceUrl": "https://www.indiapost.gov.in/Financial/Pages/Content/Post-Office-Saving-Schemes.aspx",
+      "lastVerified": "2026-10-26",
+      "status": "VERIFIED",
+      "ruleId": "ssa.rate",
+      "version": 1
+    },
+    {
+      "schemeId": "scss",
+      "rate": "8.2",
+      "compounding": "QUARTERLY",
+      "effectiveFrom": "2024-01-01",
+      "effectiveTo": null,
+      "sourceId": "india_post",
+      "sourceUrl": "https://www.indiapost.gov.in/Financial/Pages/Content/Post-Office-Saving-Schemes.aspx",
+      "lastVerified": "2026-10-26",
+      "status": "VERIFIED",
+      "ruleId": "scss.rate",
+      "version": 1
+    },
+    {
+      "schemeId": "nsc",
+      "rate": "7.7",
+      "compounding": "YEARLY",
+      "effectiveFrom": "2024-01-01",
+      "effectiveTo": null,
+      "sourceId": "india_post",
+      "sourceUrl": "https://www.indiapost.gov.in/Financial/Pages/Content/Post-Office-Saving-Schemes.aspx",
+      "lastVerified": "2026-10-26",
+      "status": "VERIFIED",
+      "ruleId": "nsc.rate",
+      "version": 1
+    },
+    {
+      "schemeId": "kvp",
+      "rate": "7.5",
+      "compounding": "YEARLY",
+      "effectiveFrom": "2024-01-01",
+      "effectiveTo": null,
+      "sourceId": "india_post",
+      "sourceUrl": "https://www.indiapost.gov.in/Financial/Pages/Content/Post-Office-Saving-Schemes.aspx",
+      "lastVerified": "2026-10-26",
+      "status": "VERIFIED",
+      "ruleId": "kvp.rate",
+      "version": 1
+    },
+    {
+      "schemeId": "po_mis",
+      "rate": "7.4",
+      "compounding": "SIMPLE",
+      "effectiveFrom": "2024-01-01",
+      "effectiveTo": null,
+      "sourceId": "india_post",
+      "sourceUrl": "https://www.indiapost.gov.in/Financial/Pages/Content/Post-Office-Saving-Schemes.aspx",
+      "lastVerified": "2026-10-26",
+      "status": "VERIFIED",
+      "ruleId": "po_mis.rate",
+      "version": 1
+    },
+    {
+      "schemeId": "po_td_1y",
+      "rate": "6.9",
+      "compounding": "QUARTERLY",
+      "effectiveFrom": "2024-01-01",
+      "effectiveTo": null,
+      "sourceId": "india_post",
+      "sourceUrl": "https://www.indiapost.gov.in/Financial/Pages/Content/Post-Office-Saving-Schemes.aspx",
+      "lastVerified": "2026-10-26",
+      "status": "VERIFIED",
+      "ruleId": "po_td_1y.rate",
+      "version": 1
+    },
+    {
+      "schemeId": "po_td_2y",
+      "rate": "7",
+      "compounding": "QUARTERLY",
+      "effectiveFrom": "2024-01-01",
+      "effectiveTo": null,
+      "sourceId": "india_post",
+      "sourceUrl": "https://www.indiapost.gov.in/Financial/Pages/Content/Post-Office-Saving-Schemes.aspx",
+      "lastVerified": "2026-10-26",
+      "status": "VERIFIED",
+      "ruleId": "po_td_2y.rate",
+      "version": 1
+    },
+    {
+      "schemeId": "po_td_3y",
+      "rate": "7.1",
+      "compounding": "QUARTERLY",
+      "effectiveFrom": "2024-01-01",
+      "effectiveTo": null,
+      "sourceId": "india_post",
+      "sourceUrl": "https://www.indiapost.gov.in/Financial/Pages/Content/Post-Office-Saving-Schemes.aspx",
+      "lastVerified": "2026-10-26",
+      "status": "VERIFIED",
+      "ruleId": "po_td_3y.rate",
+      "version": 1
+    },
+    {
+      "schemeId": "po_td_5y",
+      "rate": "7.5",
+      "compounding": "QUARTERLY",
+      "effectiveFrom": "2024-01-01",
+      "effectiveTo": null,
+      "sourceId": "india_post",
+      "sourceUrl": "https://www.indiapost.gov.in/Financial/Pages/Content/Post-Office-Saving-Schemes.aspx",
+      "lastVerified": "2026-10-26",
+      "status": "VERIFIED",
+      "ruleId": "po_td_5y.rate",
+      "version": 1
+    },
+    {
+      "schemeId": "po_rd",
+      "rate": "6.7",
+      "compounding": "QUARTERLY",
+      "effectiveFrom": "2024-01-01",
+      "effectiveTo": null,
+      "sourceId": "india_post",
+      "sourceUrl": "https://www.indiapost.gov.in/Financial/Pages/Content/Post-Office-Saving-Schemes.aspx",
+      "lastVerified": "2026-10-26",
+      "status": "VERIFIED",
+      "ruleId": "po_rd.rate",
+      "version": 1
+    },
+    {
+      "schemeId": "frsb",
+      "rate": "8.05",
+      "compounding": "HALF_YEARLY",
+      "effectiveFrom": "2024-01-01",
+      "effectiveTo": null,
+      "sourceId": "rbi",
+      "sourceUrl": "https://www.rbi.org.in/Scripts/Pages.aspx?Id=1092",
+      "lastVerified": "2026-10-26",
+      "status": "VERIFIED",
+      "ruleId": "frsb.rate",
+      "version": 1
+    },
+    {
+      "schemeId": "epf",
+      "rate": "8.25",
+      "compounding": "YEARLY",
+      "effectiveFrom": "2024-04-01",
+      "effectiveTo": "2026-03-31",
+      "sourceId": "epfo",
+      "sourceUrl": "https://www.epfindia.gov.in",
+      "lastVerified": "2026-10-26",
+      "status": "VERIFIED",
+      "ruleId": "epf.rate",
+      "version": 1
+    },
+    {
+      "schemeId": "bond_54ec",
+      "rate": "5.25",
+      "compounding": "SIMPLE",
+      "effectiveFrom": "2026-01-01",
+      "effectiveTo": null,
+      "sourceId": "rec",
+      "sourceUrl": "https://recindia.nic.in/54ec-capital-gain-bonds",
+      "lastVerified": "2026-10-26",
+      "status": "INDICATIVE",
+      "ruleId": "bond_54ec.rate",
+      "version": 1
+    }
+  ],
+  "defaultLocale": "en",
+  "notices": [
+    {
+      "id": "rates-disclaimer-2026",
+      "severity": "INFO",
+      "startsAt": "2026-10-29",
+      "endsAt": null,
+      "appliesTo": {
+        "minAppVersion": null,
+        "maxAppVersion": null,
+        "schemeIds": []
+      },
+      "text": {
+        "en": "Rates are updated periodically and may lag official announcements. Confirm with the official source before you invest.",
+        "hi": "दरें समय-समय पर अपडेट होती हैं और आधिकारिक घोषणा से पीछे हो सकती हैं। निवेश से पहले आधिकारिक स्रोत से पुष्टि करें।"
+      }
+    },
+    {
+      "id": "ppf-rate-2026-q4",
+      "severity": "INFO",
+      "startsAt": "2026-10-29",
+      "endsAt": "2026-12-31",
+      "appliesTo": {
+        "minAppVersion": null,
+        "maxAppVersion": null,
+        "schemeIds": [
+          "ppf"
+        ]
+      },
+      "text": {
+        "en": "PPF interest is currently 7.1% per year for the October to December 2026 quarter.",
+        "hi": "अक्टूबर से दिसंबर 2026 तिमाही के लिए PPF पर ब्याज दर अभी 7.1% प्रति वर्ष है।"
+      }
+    }
+  ],
+  "schemeNotes": [
+    {
+      "schemeId": "ppf",
+      "text": {
+        "en": "PPF has a 15-year lock-in. You can deposit between ₹500 and ₹1.5 lakh in a financial year, and the interest is tax-free.",
+        "hi": "PPF में 15 साल का लॉक-इन होता है। एक वित्त वर्ष में ₹500 से ₹1.5 लाख तक जमा कर सकते हैं, और ब्याज कर-मुक्त है।"
+      }
+    },
+    {
+      "schemeId": "ssa",
+      "text": {
+        "en": "Sukanya Samriddhi can be opened for a girl child under 10 years. Deposits of ₹250 to ₹1.5 lakh a year are allowed for 15 years.",
+        "hi": "सुकन्या समृद्धि खाता 10 साल से कम उम्र की बालिका के लिए खुल सकता है। 15 साल तक हर साल ₹250 से ₹1.5 लाख जमा किए जा सकते हैं।"
+      }
+    },
+    {
+      "schemeId": "scss",
+      "text": {
+        "en": "SCSS is for people aged 60 and above. The term is 5 years and the maximum deposit is ₹30 lakh. Interest is paid quarterly.",
+        "hi": "SCSS 60 वर्ष और उससे अधिक उम्र के लोगों के लिए है। अवधि 5 साल है और अधिकतम जमा ₹30 लाख है। ब्याज तिमाही मिलता है।"
+      }
+    },
+    {
+      "schemeId": "nsc",
+      "text": {
+        "en": "NSC has a 5-year term. Interest is compounded yearly and paid at maturity.",
+        "hi": "NSC की अवधि 5 साल है। ब्याज सालाना चक्रवृद्धि होता है और परिपक्वता पर मिलता है।"
+      }
+    }
+  ]
+}
